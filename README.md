@@ -1,5 +1,3 @@
-# PT Profile
-
 ## Basic info
 * **Name:** Spectr-X alias Spectr (pronounced as spectre)
 * **Server:** [Safe Indonesia / 18+]
