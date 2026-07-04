@@ -1,5 +1,6 @@
 #  About Me:
 Name: Spectr-X alias Spectr (pronounced as spectre)<br>Server: [Safe Indonesia / 18+]<br>Main Location: Bakery / Library / Dock
+![Profile Views](https://komarev.com/ghpvc/?username=Spectr-X&color=blue)
 
 ---
 
@@ -16,8 +17,5 @@ Name: Spectr-X alias Spectr (pronounced as spectre)<br>Server: [Safe Indonesia /
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Spectr-X&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=Spectr-X&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
