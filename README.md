@@ -13,6 +13,6 @@ Name: Spectr-X alias Spectr (pronounced as spectre)<br>Server: [Safe Indonesia /
 ![](https://github-profile-trophy.vercel.app/?username=Spectr-X&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Spectr-X&icon=0&color=9)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Spectr-X&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
