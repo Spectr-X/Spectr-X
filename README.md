@@ -4,7 +4,7 @@ Name: Spectr-X alias Spectr (pronounced as spectre)<br>Server: [Safe Indonesia /
 
 ---
 
-(https://spectr-x.atabook.org/)
+<a href="https://spectr-x.atabook.org/">Sign ata</a>
 
 ---
 
