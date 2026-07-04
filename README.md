@@ -1,5 +1,5 @@
 #  About Me:
-Name: Spectr-X alias Spectr (pronounced as spectre)<br>Server: [Safe Indonesia / 18+]<br>Main Location: Bakery / Library / Dock
+Name: Spectr-X alias Spectr (pronounced as spectre)<br>Server: [Safe Indonesia / 18+]<br>Main Location: Bakery / Library / Dock / Spawn
 ![Profile Views](https://komarev.com/ghpvc/?username=Spectr-X&color=blue)
 
 ---
